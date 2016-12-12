@@ -9,9 +9,12 @@ Copyright: 1998, Luca Montecchiani <m.luca@usa.net>
            2016, Marco Martin <mart@kde.org>
 License: GPL-2+
 
-Files: src/kcm.cpp
- src/kcm.h
+Files: src/*
 Copyright: 2016, Marco Martin <mart@kde.org>
+License: LGPL-2
+
+Files: debian/*
+Copyright: 2016, Harald Sitter <sitter@kde.org>
 License: LGPL-2
 
 Files: src/kplymouththemeinstaller.cpp
