@@ -27,5 +27,5 @@ Depends: plasma-framework,
          qml-module-org-kde-kquickcontrolsaddons,
          ${misc:Depends},
          ${shlibs:Depends}
-Description: ((TBD))
- ((TBD))
+Description: KCM for Plymouth
+ KDE systemsettings module to manage plymouth theming.
