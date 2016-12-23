@@ -1,4 +1,4 @@
-Source: plymouthkcm
+Source: plymouth-kcm
 Section: kde
 Priority: extra
 Maintainer: KDE neon <neon@kde.org>
@@ -18,8 +18,8 @@ Build-Depends: cmake (>= 2.8.12),
                qtbase5-dev (>= 5.5.0~)
 Standards-Version: 3.9.6
 Homepage: https://www.kde.org
-Vcs-Git: git://anongit.neon.kde.org/neon-packaging/plymouthkcm.git
-Vcs-Browser: https://packaging.neon.kde.org/neon-packaging/plymouthkcm.git
+Vcs-Git: git://anongit.neon.kde.org/neon-packaging/plymouth-kcm.git
+Vcs-Browser: https://packaging.neon.kde.org/neon-packaging/plymouth-kcm.git
 
 Package: kde-config-plymouth
 Architecture: any
