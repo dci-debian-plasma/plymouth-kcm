@@ -1,7 +1,8 @@
 Source: plymouth-kcm
 Section: kde
 Priority: extra
-Maintainer: KDE neon <neon@kde.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+XSBC-Original-Maintainer: KDE neon <neon@kde.org>
 Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 5.18.0~),
