@@ -1,3 +1,9 @@
+plymouth-kcm (5.10.3-1~) UNRELEASED; urgency=medium
+
+  * Initial Debian release
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 13:41:50 +0200
+
 plymouth-kcm (5.10.3-0neon) xenial; urgency=medium
 
   * New release
@@ -21,9 +27,3 @@ plymouth-kcm (5.10.0-0neon) xenial; urgency=medium
   * New release
 
  -- Neon CI <neon@kde.org>  Tue, 30 May 2017 17:11:11 +0000
-
-plymouth-kcm (0.0) UNRELEASED; urgency=medium
-
-  * Initial release.
-
- -- Harald Sitter <sitter@kde.org>  Mon, 12 Dec 2016 15:00:42 +0100
