@@ -19,7 +19,7 @@ Build-Depends: cmake (>= 2.8.12),
                pkg-config,
                pkg-kde-tools (>= 0.15.16),
                qtbase5-dev (>= 5.5.0~),
-               qtdeclarative5-dev (>= 5.5.0~)
+               qtdeclarative5-dev (>= 5.5.0~),
 Standards-Version: 4.0.0
 Homepage: https://www.kde.org
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/plasma/plymouth-kcm.git
@@ -30,6 +30,6 @@ Architecture: any
 Depends: plasma-framework,
          qml-module-org-kde-kquickcontrolsaddons,
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
 Description: KCM for Plymouth
  KDE systemsettings module to manage plymouth theming.
