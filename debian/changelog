@@ -1,8 +1,13 @@
-plymouth-kcm (5.10.3-1~) UNRELEASED; urgency=medium
+plymouth-kcm (5.10.4-1~) UNRELEASED; urgency=medium
 
   * Initial Debian release
+  * Update copyright information
+  * Add upstream metadata
+  * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 4.0.0.
+  * New upstream release (5.10.4).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 08 Jul 2017 13:41:50 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Aug 2017 13:31:24 +0200
 
 plymouth-kcm (5.10.3-0neon) xenial; urgency=medium
 
