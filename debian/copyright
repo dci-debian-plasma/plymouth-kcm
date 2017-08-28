@@ -3,12 +3,6 @@ Upstream-Name: plymouth-kcm
 Upstream-Contact: Marco Martin <mart@kde.org>
 Source: https://cgit.kde.org/plymouth-kcm.git/
 
-Files: src/helper.cpp
- src/helper.h
-Copyright: 1998, Luca Montecchiani <m.luca@usa.net>
-           2016, Marco Martin <mart@kde.org>
-License: GPL-2+
-
 Files: *
 Copyright: 2016, Marco Martin <mart@kde.org>
 License: LGPL-2
@@ -34,15 +28,15 @@ Files: cmake/*
 Copyright: 2016, Harald Sitter <sitter@kde.org>
 License: BSD-2-clause
 
-Files: debian/*
-Copyright: 2016, Harald Sitter <sitter@kde.org>
-License: LGPL-2
-
 Files: po/ca/*
        po/ca@valencia/*
        po/uk/*
 Copyright: 2016-2017, This_file_is_part_of_KDE
 License: LGPL-2.1+3+KDEeV
+
+Files: debian/*
+Copyright: 2016, Harald Sitter <sitter@kde.org>
+License: LGPL-2
 
 License: BSD-2-clause
  Redistribution and use in source and binary forms, with or without
