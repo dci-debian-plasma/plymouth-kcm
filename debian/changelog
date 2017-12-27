@@ -1,3 +1,9 @@
+plymouth-kcm (5.11.4-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.11.4).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Dec 2017 15:51:28 -0300
+
 plymouth-kcm (5.10.5-1) experimental; urgency=medium
 
   * Initial Debian release
